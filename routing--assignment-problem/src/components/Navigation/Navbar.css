@@ -1,0 +1,16 @@
+.navigation ul {
+  margin: auto;
+  padding: 0;
+  list-style: none;
+}
+
+.navigation ul li {
+  font-size: 20px;
+  margin: 10px;
+  display: inline-block;
+  /* width: 100%; */
+}
+
+.active {
+  color: orange;
+}
